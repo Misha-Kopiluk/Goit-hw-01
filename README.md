@@ -1,2 +1,3 @@
-# Goit-hw-01
-goit-hw-01
+# example-project
+
+This is my first project
